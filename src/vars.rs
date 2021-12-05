@@ -73,5 +73,5 @@ pub fn run() {
 
     s1.push_str("_new1");
     s2.push_str("_new2");
-    println!("{} {}", s1, s2);
+    println!("{} {} test", s1, s2);
 }
